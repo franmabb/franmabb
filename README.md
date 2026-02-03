@@ -6,7 +6,7 @@
   <p>
     I am currently finishing my degree in <strong>Systems Administration (ASIR)</strong> with a clear goal: <strong>Mastering DevOps & SRE</strong>.
     <br>
-    My background combines strong <strong>Systems & Networking</strong> knowledge with <strong>Full Stack</strong> capabilities, allowing me to understand the full lifecycle of applications.
+    My background combines strong <strong>Systems, Virtualization & Networking</strong> knowledge with <strong>Full Stack</strong> capabilities, allowing me to understand the full lifecycle of applications.
   </p>
 
   <p>
@@ -35,18 +35,21 @@ I am actively bridging the gap between Operations and Development.
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### 💻 Systems & Backend Base
+#### 💻 Systems & Virtualization Base
+*Solid foundation in hypervisors and OS management.*
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%230000f?style=for-the-badge&logo=postgresql&logoColor=white)
+![VMware](https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-VMware-grey?style=for-the-badge&logo=vmware)
+![SQL](https://img.shields.io/badge/sql-%230000f?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🌐 Web Development (Extra Skills)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -62,7 +65,7 @@ I am actively bridging the gap between Operations and Development.
 
 ### 🎯 Goals for 2024/25
 
-* 🎓 Graduate in **Network Systems Administration**.
+* 🎓 Graduate in **Network Systems Administration (ASIR)**.
 * 🏆 Obtain **AWS/Azure Certifications**.
 * ☸️ Deep dive into **Kubernetes Operators**.
 * 🤖 Automate everything!
