@@ -67,5 +67,5 @@ Como ingeniero enfocado en **DevOps y SRE**, mi objetivo es reducir la fricción
 * Mejora de la observabilidad con dashboards avanzados en **Grafana**.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=franmabb&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
