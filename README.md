@@ -55,11 +55,18 @@ My stack combines the precision of **Infrastructure as Code** with the creativit
 
 ---
 
-### ⚡ GitHub Metrics
+### ⚡ Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franmabb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmabb&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=franmabb&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Langs" />
 </div>
 
 ---
