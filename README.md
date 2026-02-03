@@ -1,55 +1,71 @@
-# 👋 ¡Hola! Soy Francisco Mateos  
-🎓 **Estudiante de Administración de Sistemas** | En camino a especializarme en **DevOps**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hola,%20soy%20DevOps%20Engineer&fontSize=50&fontAlignY=38&desc=Building%20scalable%20infrastructure%20&%20automating%20the%20world&descAlignY=55&descAlign=50&animation=fadeIn)
+
+<div align="center">
+
+  <h3> 🚀 Site Reliability Engineer (SRE) & DevOps Enthusiast </h3>
+  <p>
+    <em>"Automatiza todo lo que tengas que hacer más de dos veces."</em>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:tuemail@ejemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://TU_WEBSITE.com">
+      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=franmab44&label=Profile%20views&color=0e75b6&style=flat)
 
-## 💡 Sobre mí
-Soy un estudiante apasionado por la tecnología y la administración de sistemas, con conocimientos sólidos en **Linux** y una base en programación con **Python, HTML, CSS y SQL**.  
+### 🛠️ Arsenal Tecnológico
 
-Mi objetivo es aprender y dominar herramientas de **DevOps**, incluyendo **Terraform, Kubernetes**, para poder gestionar infraestructuras modernas, automatizadas y eficientes.
+Como ingeniero enfocado en **DevOps y SRE**, mi objetivo es reducir la fricción entre desarrollo y operaciones mediante IaC, CI/CD y monitoreo proactivo.
 
----
+#### ☁️ Infraestructura & Orquestación
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-## 🔧 Tecnologías y herramientas
-- **Sistemas:** Linux (administración básica y scripting)  
-- **Lenguajes:** Python 🐍 · HTML · CSS · SQL · aprendiendo PHP  
-- **DevOps (aprendiendo):** Terraform, Kubernetes 
-- **Herramientas:** Git, Bash, VirtualBox, VSCode  
-- **Intereses:** Automatización, infraestructura como código, despliegues y cloud computing ☁️
-
----
-## 👨‍💻 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### 🐧 Scripting & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%230000f?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 📊 Observabilidad & CI/CD
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-VMware-grey?style=for-the-badge&logo=vmware)
+
+#### 💻 Frontend (Control básico)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
-## 📘 Actualmente aprendiendo
-- Fundamentos de **DevOps**  
-- **Terraform** para infraestructura como código  
-- **Kubernetes** para orquestación de contenedores  
-- Mejores prácticas de scripting en **Linux y Python**
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📊 Mis estadísticas
+### ⚡ Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=franmabb&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=radical)
-
-
----
-
-## 🎯 Mi objetivo
-Convertirme en un profesional de **DevOps**, combinando mis conocimientos de sistemas y programación para gestionar infraestructuras modernas y automatizadas.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</div>
 
 ---
 
-## 📫 Contacto
-- ✉️ Email: `franciscomateosbufi@gmail.com`  
-- 🐙 GitHub: [github.com/franmab44](https://github.com/franmab44)
+### 🔭 Actualmente trabajando en...
+
+* Orquestación de microservicios con **Kubernetes**.
+* Automatización de pipelines usando **Ansible y Terraform**.
+* Mejora de la observabilidad con dashboards avanzados en **Grafana**.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
