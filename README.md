@@ -1,12 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=45&fontAlignY=38&desc=SysAdmin%20transitioning%20to%20Cloud%20&%20Automation&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=45&fontAlignY=38&desc=SysAdmin%20with%20strong%20Web%20Dev%20skills&descAlignY=55&descAlign=50&animation=fadeIn)
 
 <div align="center">
 
-  <h3> 🎓 Network Systems Administration Student </h3>
+  <h3> 🎓 Network Systems Administration Student (Final Year) </h3>
   <p>
     I am currently finishing my degree in <strong>Systems Administration (ASIR)</strong> with a clear goal: <strong>Mastering DevOps & SRE</strong>.
     <br>
-    My background combines strong <strong>Systems, Virtualization & Networking</strong> knowledge with <strong>Full Stack</strong> capabilities, allowing me to understand the full lifecycle of applications.
+    <strong>What sets me apart?</strong> Unlike traditional SysAdmins, I have a <strong>solid background in Web Development</strong>.
+    <br> 
+    I can build, debug, and optimize the very applications I deploy.
   </p>
 
   <p>
@@ -26,7 +28,7 @@
 
 ### 🚀 The Learning Path & Skills
 
-I am actively bridging the gap between Operations and Development.
+My profile is a hybrid: **Operations stability** + **Developer creativity**.
 
 #### ☁️ Cloud & DevOps (My Focus)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -35,7 +37,16 @@ I am actively bridging the gap between Operations and Development.
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-#### 💻 Systems & Virtualization Base
+#### 💻 Strong Web Development Background
+*I don't just run scripts; I write and understand application code.*
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🐧 Systems & Virtualization Base
 *Solid foundation in hypervisors and OS management.*
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -44,12 +55,6 @@ I am actively bridging the gap between Operations and Development.
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%230000f?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🌐 Web Development (Extra Skills)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -60,6 +65,8 @@ I am actively bridging the gap between Operations and Development.
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Langs" />
 </div>
+
+---
 
 
 
