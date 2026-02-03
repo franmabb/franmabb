@@ -10,14 +10,14 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/franmab" target="_blank">
+    <a href="https://www.linkedin.com/in/franmab/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="franciscomateosbufi@gmail.com">
+    <a href="mailto:franciscomateosbufi@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://franmab.es">
-      <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+    <a href="https://franmab.es" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-franmab.es-20232A?style=for-the-badge&logo=firefox&logoColor=61DAFB" alt="Portfolio"/>
     </a>
   </p>
 </div>
@@ -71,5 +71,5 @@ My stack combines the precision of **Infrastructure as Code** with the creativit
 * **Observability:** Designing comprehensive dashboards in **Grafana**.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=franmabbE&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=franmabb&style=flat-square&color=blueviolet" alt="Profile views"/>
 </div>
