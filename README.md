@@ -61,14 +61,7 @@ I am actively bridging the gap between Operations and Development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmabb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Langs" />
 </div>
 
----
 
-### 🎯 Goals for 2024/25
-
-* 🎓 Graduate in **Network Systems Administration (ASIR)**.
-* 🏆 Obtain **AWS/Azure Certifications**.
-* ☸️ Deep dive into **Kubernetes Operators**.
-* 🤖 Automate everything!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=franmabb&style=flat-square&color=blueviolet" alt="Profile views"/>
