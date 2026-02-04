@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=45&fontAlignY=38&desc=SysAdmin%20with%20strong%20Web%20Dev%20skills&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Future%20DevOps%20Engineer&fontSize=45&fontAlignY=38&fontColor=ffffff&desc=SysAdmin%20with%20strong%20Web%20Dev%20skills&descAlignY=55&descAlign=50&descSize=20&animation=fadeIn)
 
 <div align="center">
 
-  <h3> 🎓 Network Systems Administration Student (Final Year) </h3>
+  <h3> 🎓 Network Systems Administration Student</h3>
   <p>
     I am currently finishing my degree in <strong>Systems Administration (ASIR)</strong> with a clear goal: <strong>Mastering DevOps & SRE</strong>.
     <br>
@@ -67,8 +67,6 @@ My profile is a hybrid: **Operations stability** + **Developer creativity**.
 </div>
 
 ---
-
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=franmabb&style=flat-square&color=blueviolet" alt="Profile views"/>
